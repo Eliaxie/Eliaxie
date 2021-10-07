@@ -18,5 +18,5 @@ Head IT and Guarantor at [PoliNetwork](https://polinetwork.github.io/) <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eliaxie&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliaxie&layout=compact&langs_count=9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliaxie&layout=compact&langs_count=8" />
 </a>
