@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eliaxie&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Eliaxie&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliaxie)](https://github.com/anuraghazra/github-readme-stats)
