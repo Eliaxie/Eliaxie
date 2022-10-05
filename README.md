@@ -2,7 +2,7 @@
 
 ## About me
 22, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
-Head IT and Guarantor at [PoliNetwork](https://polinetwork.github.io/) <br/>
+Head IT and President at [PoliNetwork](https://polinetwork.github.io/) <br/>
 
 ## Languages
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
