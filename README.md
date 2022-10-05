@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-21, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
+22, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
 Head IT and Guarantor at [PoliNetwork](https://polinetwork.github.io/) <br/>
 
 ## Languages
