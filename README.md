@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-22, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
+23, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
 Head IT and President at [PoliNetwork](https://polinetwork.github.io/) <br/>
 
 ## Languages
