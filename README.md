@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-25, DevOps Engineer, Computer Science and Engineering @ Polimi <br/>
+27, DevOps Engineer, Computer Science and Engineering @ Polimi <br/>
 
 ## Languages
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
